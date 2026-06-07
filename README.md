@@ -1,2 +1,2 @@
 # SteamDeck-Accesories
-3Dd modeled accesory´s for the SteamDeck
+3D modeled accesory´s for the SteamDeck
